@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hassaniqbalqureshi
 - 👀 I’m interested in Flutter Dev & InfoSec
-- 🌱 I’m currently learning Flutter and Cybersecurity
+- 🌱 I’m currently a Flutter developer and Cybersecurity learner
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/hassan-qureshi-3024b9173/
 
 <!---
