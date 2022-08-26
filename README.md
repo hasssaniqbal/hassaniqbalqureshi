@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hassaniqbalqureshi
-- 👀 I Work on App Development in Flutter 
-- 🌱 I’m currently working on Flutter development and Web Development using Javascript and React
+- 👀 I am a Software Engineer
+- 🌱 I’m currently working on Flutter Cross Platform App Development and Front-end web devlopment using js and React
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/hassan-qureshi-3024b9173/
 - You can also reach me on fiver for assistance in your Software documentation at https://www.fiverr.com/share/973xEd
 
