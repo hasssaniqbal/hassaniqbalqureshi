@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hassaniqbalqureshi
+- 👋 Hi, I’m @hasssaniqbal
 - 👀 I am a Software Engineer
 - 🌱 I’m currently working on Backend development with typeorm, graphql and typescript.
 - Previously worked with Flutter Cross Platform App Development and Front-end web devlopment using js and React
